@@ -1,0 +1,85 @@
+<resources>
+  <string name="app_name">Gallery Images</string>
+  <string name="my_name">Yisuk KIm</string>
+  <string name="my_email">kimls125@gmail.com</string>
+
+
+  <string name="navigation_drawer_open">Open navigation drawer</string>
+  <string name="navigation_drawer_close">Close navigation drawer</string>
+
+  <string name="snack_bar_action_retry">Retry</string>
+
+  <!--about-->
+  <string name="about">About</string>
+  <string name="app_version">App Version</string>
+  <string name="development_time">Development Time</string>
+  <string name="author_name">Author Name</string>
+  <string name="author_email">E-mail</string>
+
+  <!--detail-->
+  <string name="detail_title">Image Detail</string>
+
+  <!--section-->
+  <string name="section">Section</string>
+  <string name="section_hot">hot</string>
+  <string name="section_top">top</string>
+  <string name="section_user">user</string>
+
+  <!--sort-->
+  <string name="sort">Sort</string>
+  <string name="sort_viral">viral</string>
+  <string name="sort_top">top</string>
+  <string name="sort_time">time</string>
+  <string name="sort_rising">rising</string>
+
+  <!--window-->
+  <string name="window">Window</string>
+  <string name="window_day">day</string>
+  <string name="window_month">month</string>
+  <string name="window_year">year</string>
+  <string name="window_all">all</string>
+
+  <!--layout-->
+  <string name="layout">Layout Style</string>
+  <string name="layout_list">list</string>
+  <string name="layout_grid">grid</string>
+  <string name="layout_staggered_grid">staggered grid</string>
+
+
+  <!--showViral-->
+  <string name="show_viral">Show Viral</string>
+  <string name="viral_include">include</string>
+  <string name="viral_exclude">exclude</string>
+
+  <string-array name="array_section">
+    <item>@string/section_hot</item>
+    <item>@string/section_top</item>
+    <item>@string/section_user</item>
+  </string-array>
+
+  <string-array name="array_sort">
+    <item>@string/sort_viral</item>
+    <item>@string/sort_top</item>
+    <item>@string/sort_time</item>
+    <item>@string/sort_rising</item>
+  </string-array>
+
+  <string-array name="array_window">
+    <item>@string/window_day</item>
+    <item>@string/window_month</item>
+    <item>@string/window_year</item>
+    <item>@string/window_all</item>
+  </string-array>
+
+  <string-array name="array_layout_style">
+    <item>@string/layout_grid</item>
+    <item>@string/layout_list</item>
+    <item>@string/layout_staggered_grid</item>
+  </string-array>
+
+  <string-array name="array_show_viral">
+    <item>@string/viral_include</item>
+    <item>@string/viral_exclude</item>
+  </string-array>
+
+</resources>
